@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Snowman
+comment0.text=\n\ A\ snowman\n\ \n\ @author\ Jonas\ Hatschek\n\ @version\ 2015-10-06\n
+comment1.params=
+comment1.target=Snowman()
+comment1.text=\n\ Constructs\ a\ default\ Snowman\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\n\ Act\ -\ do\ whatever\ the\ Mary\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+comment3.params=
+comment3.target=void\ collectedFires()
+comment3.text=\n\ Method\ that\ counts\ the\ amount\ of\ fires\ that\ has\ been\ extinguished\n
+comment4.params=
+comment4.target=void\ checkInput()
+comment4.text=\n\ Checks\ user\ input\ and\ acts\ accordingly\n
+comment5.params=howFar
+comment5.target=void\ travel(int)
+comment5.text=\n\ Method\ that\ regulates\ so\ that\ the\ snowman\ cannot\ move\ under\ bricks\n\n\ @param\ \ howFar\ \ \ default\ set\ to\ 1,\ so\ the\ for-loop\ will\ only\ execute\ once\n
+numComments=6

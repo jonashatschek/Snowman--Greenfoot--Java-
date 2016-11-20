@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Mover
+comment0.text=\n\ Superclass\ for\ moving\ actors\ in\ the\ game\n\ \n\ @author\ Thomas\ Jakobsson\ \n\ @version\ 2015-09-22\n
+comment1.params=speed\ imageNames
+comment1.target=Mover(int,\ java.lang.String[])
+comment1.text=\n\ Constructs\ a\ Mover\ with\ given\ speed\ and\ imagenames\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\n\ Act\ -\ do\ whatever\ the\ Mover\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+comment3.params=
+comment3.target=boolean\ move()
+comment3.text=\n\ Tries\ to\ move\ the\ Mover\ in\ the\ current\ direction.\n\ Returns\ true\ if\ succesful.\n
+comment4.params=
+comment4.target=void\ animate()
+comment4.text=\n\ Animates\ the\ Mover\n
+numComments=5

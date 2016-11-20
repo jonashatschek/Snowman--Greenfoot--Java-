@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Fire
+comment0.text=\n\ A\ fire\n\ \n\ @author\ Jonas\ Hatschek\ \n\ @version\ 2015-10-06\n
+comment1.params=
+comment1.target=Fire()
+comment1.text=\n\ Constructs\ a\ default\ Fire\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\n\ Act\ -\ do\ whatever\ the\ fire\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+comment3.params=
+comment3.target=void\ randomMovement()
+comment3.text=\n\ Makes\ the\ fire\ move\ around\ randomly.\n
+comment4.params=
+comment4.target=void\ snowmanMelt()
+comment4.text=\n\ Melts\ the\ snowman\n
+numComments=5

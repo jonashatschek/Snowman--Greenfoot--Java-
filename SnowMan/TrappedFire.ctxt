@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=TrappedFire
+comment0.text=\n\ A\ trapped\ fire\n\ \n\ @author\ Jonas\ Hatschek\n\ @version\ 2015-10-22\n
+comment1.params=rotation
+comment1.target=TrappedFire(int)
+comment1.text=\n\ Creates\ a\ TrappedFire\ with\ the\ given\ rotation\n
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ backToFire()
+comment3.text=\n\ Method\ that\ turns\ the\ trapped\ fires\ back\ to\ "just"\ fires\n
+numComments=4

@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Iceland
+comment0.text=\n\ Creates\ the\ world\ of\ Iceland,\ inhabited\ by\ a\ snowman\ and\ his\ enemies\:\ the\ fire\ that\ could\ potentially\ melts\ him\n\ \n\ @author\ Jonas\ Hatschek\n\ @version\ 2015-10-06\n
+comment1.params=
+comment1.target=Iceland()
+comment1.text=\n\ Creats\ a\ default\ world,\ populated\ with\ Snowman\ and\ fires.\n\ \n
+comment2.params=
+comment2.target=void\ populateWorld()
+comment2.text=\n\ Populates\ the\ world\n
+comment3.params=counter
+comment3.target=void\ createBricks(int)
+comment3.text=\n\ Method\ that\ creates\ and\ decides\ the\ amount\ of\ and\ location(s)\ of\ the\ bricks\ randomly\n\n\ @param\ \ counter\ \ increases\ with\ every\ turn\ and\ defines\ the\ location\ of\ y\ coordinator\n
+comment4.params=x
+comment4.target=void\ createFire(int)
+comment4.text=\n\ Method\ that\ creates\ and\ locates\ the\ fires\ in\ the\ game\n\n\ @param\ \ \ x\ \ \ starts\ the\ process\ of\ populating\ the\ world\ with\ fires\ \ \n
+comment5.params=x
+comment5.target=int\ populatingCoordinates(int)
+comment5.text=\n\ Method\ that\ gives\ the\ fires\ their\ random\ location\n\n\ @param\ \ \ x\ \ \ int\ that\ starts\ up\ the\ process\ of\ locating\ the\ fires\n\ @return\ \ either\ the\ fires\ x\ or\ y\ coordinate\n
+numComments=6

@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Ice
+comment0.text=\n\ Ice\ that\ is\ shot\ from\ the\ snowman\n\ \n\ @author\ Jonas\ Hatschek\n\ @version\ 2015-10-06\n
+comment1.params=direction
+comment1.target=Ice(int)
+comment1.text=\n\ Creates\ a\ web\ with\ the\ given\ direction\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\n\ Act\ -\ do\ whatever\ the\ Ice\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+comment3.params=
+comment3.target=void\ checkForFires()
+comment3.text=\n\ Method\ that\ exchanges\ the\ fire\ for\ a\ trapped\ fire\n
+numComments=4
